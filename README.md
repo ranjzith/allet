@@ -1,2 +1,2 @@
 # allet
-A friendly Omni wallet for all your digital cash
+A friendly Omni wallet to manage your jumbled digital assets.
